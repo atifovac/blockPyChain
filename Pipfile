@@ -1,0 +1,6 @@
+[requires]
+python_version = '3.6'
+
+[dev-packages]
+Flask = {version = 0.12.2}
+requests = {version = 2.18.4}
